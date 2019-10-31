@@ -1,4 +1,4 @@
 # hello-world
 the first repository
 
-I'm rookie for programming.
+I'm a rookie for programming.
